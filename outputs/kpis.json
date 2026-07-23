@@ -1,0 +1,9 @@
+{
+  "pedidos": 1500,
+  "clientes": 458,
+  "receita_liquida": 534960.44,
+  "lucro": 260826.43,
+  "margem_pct": 48.76,
+  "ticket_medio": 356.64,
+  "melhor_categoria": "Escritorio"
+}
